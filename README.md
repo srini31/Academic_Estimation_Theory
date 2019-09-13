@@ -1,4 +1,4 @@
-# Academic_Estimation_Theory - System-Identification-Model-detection
+# Academic_Estimation_Theory: System-Identification-Model-detection
 
 In this project, data about Tree Ring index is chosen and a model is identified that fits the data closely from: 
 – Auto regressive process (AR)
